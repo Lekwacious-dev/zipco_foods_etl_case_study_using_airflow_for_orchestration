@@ -1,0 +1,19 @@
+ProductID,ProductName,PromotionApplied
+1,Vanilla Cake,True
+2,Red Velvet Cake,False
+3,Chocolate Cake,True
+4,Carrot Cake,False
+5,Pizza Pepperoni,True
+6,Red Velvet Cake,True
+7,Carrot Cake,True
+8,Pizza Margherita,False
+9,Chocolate Cake,False
+10,Pizza Beef Double decker,True
+11,Cheesecake,False
+12,Pizza Pepperoni,False
+13,Pizza Beef Double decker,False
+14,Vanilla Cake,False
+15,Pizza Margherita,True
+16,Fruit Cake,False
+17,Cheesecake,True
+18,Fruit Cake,True
